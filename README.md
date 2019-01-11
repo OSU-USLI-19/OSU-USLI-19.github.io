@@ -1,4 +1,4 @@
 # OSU-USLI-18.github.io
-<http://osuusli.com/>
+<http://osu-usli.com/>
 
 USLI website for NASA deliverables
