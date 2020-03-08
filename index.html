@@ -2,6 +2,19 @@
 <html lang="en">
 
 <!-- Comment to force code rebuild -->
+<style>
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+</style>
 
 <head>
 
@@ -114,7 +127,9 @@
     </section>
 
     <!-- USLAIIGHT -->
+
     <section style="padding: 30px 0;" id="social">
+      <div class = "row"> <!-- JUST ADDED -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -124,6 +139,7 @@
                     </center>
                 </div>
             </div>
+            <div class ="column">
             <div class="instagramIframe">
               <blockquote class="instagram-media" data-instgrm-captioned
                 data-instgrm-permalink="https://www.instagram.com/p/B5a58hrhXMc/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12"
@@ -197,12 +213,16 @@
               <script async src="//www.instagram.com/embed.js"></script>
                 <script async defer src="https://platform.instagram.com/en_US/embeds.js"></script> <br />
             </div>
+          </div>
             <div class="container">
+              <div class = "column">
                 <center>
                     <a class="twitter-timeline tw-align-center" data-width="400" data-height="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/OregonStateUSLI?ref_src=twsrc%5Etfw">Tweets by OregonStateUSLI</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </center>
+              </div>
             </div>
         </div>
+      </div>
     </section>
 
     <!-- deliverables Grid -->
