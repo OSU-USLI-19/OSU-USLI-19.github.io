@@ -1,9 +1,9 @@
 
 let imageList = [
-    'https://instagram.com/p/BeUIP5YnEDH/media/?size=l', //change
-    'https://instagram.com/p/BeUIG7jn2kj/media/?size=l', //change
-    'https://instagram.com/p/BeUHCdbnb7f/media/?size=l', //change
-    'https://instagram.com/p/BpSyasPj2QZ/media/?size=l', //change
+    'https://www.instagram.com/p/B5GT7YAhRfH/media/?size=l', //change
+    'https://www.instagram.com/p/B7_sLvUBhps/media/?size=l', //change
+    'https://www.instagram.com/p/B5GT7YAhRfH/media/?size=l', //changed
+    'https://www.instagram.com/p/B5a58hrhXMc/media/?size=l', //changed
     'img/header-bg-1.jpg',
     'img/header-bg-2.jpg'
 ];
